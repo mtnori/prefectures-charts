@@ -1,5 +1,12 @@
 # prefectures-charts
 
+都道府県別の総人口推移グラフを表示するSPA(Single Page Application)
+
+## 要件
+- Google Chrome 最新版(2019/06/18現在)
+- Yarn
+- RESAS APIのAPIキー(ユーザー登録が必要)
+
 ## 起動方法
 
 ### 設定ファイルの作成
