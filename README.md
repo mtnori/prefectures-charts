@@ -19,5 +19,5 @@ API_KEY=あなたのRESAS APIキーを設定
 `yarn start`
 
 ### ビルドしてから起動する場合、以下のコマンドを実行してください。
-`yarn build`
+`yarn build`  
 `yarn serve`
