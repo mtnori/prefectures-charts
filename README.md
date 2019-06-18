@@ -38,7 +38,7 @@ yarn build
 yarn serve
 ```
 
-### 5.サーバー起動後、以下URLへアクセスします。
+### 5.サーバー起動後、Webブラウザ(Google Chrome)から、以下URLへアクセスします。
 
 ```
 http://localhost:8080/
