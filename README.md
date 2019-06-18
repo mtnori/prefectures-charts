@@ -20,14 +20,26 @@ API_KEY=あなたのRESAS APIキーを設定
 ```
 
 ### 3.必要なライブラリをインストール
-`yarn install`
+
+```
+yarn install
+```
 
 ### 4-1.開発サーバで起動する場合、以下のコマンドを実行してください。
-`yarn start`
+
+```
+yarn start
+```
 
 ### 4-2.ビルドしてから起動する場合、以下のコマンドを実行してください。
-`yarn build`  
-`yarn serve`
+
+```
+yarn build
+yarn serve
+```
 
 ### 5.サーバー起動後、以下URLへアクセスします。
-`http://localhost:8080/`
+
+```
+http://localhost:8080/
+```
