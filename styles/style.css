@@ -1,0 +1,18 @@
+fieldset {
+  border: 1px solid #d7d7d7;
+  border-radius: 3px;
+}
+
+.prefectures {
+  width: 550px;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.item {
+  margin: 10px;
+  width: 100px;
+}
